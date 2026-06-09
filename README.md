@@ -15,7 +15,7 @@
 ```python
 class Sivanesh:
     name        = "Sivanesh S"
-    location    = "Tiruchirappalli, Tamil Nadu, IN 🇮🇳"
+    location    = "Tamil Nadu, India"
     degree      = "B.Tech – Artificial Intelligence & Data Science"
     college     = "Kongunadu College of Engineering & Technology"
     email       = "Sivanesh8681@gmail.com"
