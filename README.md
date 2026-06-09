@@ -13,7 +13,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class Sivanesh:
+👨‍💻 My Details:
     name        = "Sivanesh S"
     location    = "Tamil Nadu, India"
     degree      = "B.Tech – Artificial Intelligence & Data Science"
