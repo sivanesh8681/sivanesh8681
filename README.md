@@ -130,7 +130,7 @@
 ## 💼 Work Experience
 
 <details>
-<summary><b>🎓 Kongunadu College of Engineering & Technology</b> — Final Year Project Lead · 2023 – 2025 · Tiruchirappalli, TN</summary>
+<summary><b>🎓 Kongunadu College of Engineering & Technology</b> — Final Year Project Lead · 2023 – 2027 · Tiruchirappalli, TN</summary>
 
 > `Python` `FastAPI` `LangChain` `Claude API` `TensorFlow` `React` `MongoDB` `Docker`
 
