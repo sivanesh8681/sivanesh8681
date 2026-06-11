@@ -24,7 +24,7 @@
 
     stack = [
         "Python", "JavaScript", "React.js", "Next.js",
-        "FastAPI", "Node.js", "LangChain", "TensorFlow",
+        "FastAPI", "Node.js", "TensorFlow",
         "MongoDB", "MySQL", "Docker", "Firebase"
     ]
 
