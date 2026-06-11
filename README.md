@@ -165,6 +165,7 @@
 | [**AI Voice Assistant (JARVIS)**](https://github.com/sivanesh8681) | Python · Claude API · Faster-Whisper · Edge-TTS · PyQt6 | Wake-word activated · OS-level automation · Low-latency STT + offline TTS · Structured command routing via tool-use |
 | [**CCMS – College CMS**](https://github.com/sivanesh8681) | React · Node.js · Express · MongoDB · Canvas API | Role-based access control · WebGL particle login bg · One-to-one faculty-subject schema · Real-time notifications |
 | [**Android AI Dev Copilot**](https://github.com/sivanesh8681) | Kotlin · Jetpack Compose · Gemini API · Firebase | Code gen & debug hints · Multi-turn conversation memory · Firebase Auth session management |
+| [**SkillLit – AI Interview & Smart Learning System**](https://github.com/sivanesh8681) | Flutter · FastAPI · Python · LangChain · MongoDB · AI/NLP | Resume-based interview generation · Personalized technical & HR mock interviews · AI-powered candidate assessment & skill-gap detection · Adaptive learning recommendations · Time-based micro-learning modules · Multi-domain career readiness platform |
 
 </div>
 
