@@ -142,7 +142,7 @@
 </details>
 
 <details>
-<summary><b>⚡ Hackathon Participant</b> — Competitive Developer · 2023 – 2024 · Multi-city</summary>
+<summary><b>⚡ Hackathon Participant</b> — Competitive Developer · 2023 – 2027 · Multi-city</summary>
 
 > `React` `FastAPI` `Node.js` `MongoDB` `LLMs` `Real-time APIs`
 
@@ -194,7 +194,7 @@
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 
 |:---|:---|:---|
-| B.Tech – Artificial Intelligence & Data Science | Kongunadu College of Engineering & Technology (Autonomous) | 2021 – 2025 |
+| B.Tech – Artificial Intelligence & Data Science | Kongunadu College of Engineering & Technology (Autonomous) | 2023 – 2027 |
 
 </div>
 
